@@ -46,7 +46,7 @@ padding-left: 30px;
 margin-top: 0;
 }
 
-h5{
+h5, h4{
     box-sizing: border-box;
 vertical-align: baseline;
 margin: 0;
@@ -57,7 +57,7 @@ outline: 0;
 font-weight: 400;
 font-size: 2.39rem;
 line-height: 1.5;
-color: #00b6dc;
+color: red;
 margin-top: 0;
 }
 
@@ -77,11 +77,11 @@ margin-top: 0;
 }
 
 .programBoxes__text ul li:before {
-    content: "\2713"!important;
+    content: "\2192"!important;
     text-transform: none;
     font-family: icomoon!important;
     speak: none;
-	color: #00b6dc;
+	color:  red;
     font-style: normal;
     font-variant: normal;
     -webkit-font-smoothing: antialiased;
