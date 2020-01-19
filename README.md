@@ -1,4 +1,4 @@
-### Projekt PROGRAMU
+### Projekt PROGRAMU NAUCZANIA FRONTEND
 
 
 #### Aby skorzystac z aplikacji należy sklonować projekt za pomocą:
